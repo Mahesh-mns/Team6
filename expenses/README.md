@@ -113,10 +113,3 @@ Access the interactive Swagger UI at:
 - Expenses are stored in `expenses.jsonl`, which is created automatically on first run.
 
 ***
-
-This formatting ensures clarity, improves readability, and provides step-by-step instructions for new users.[^1]
-
-<div align="center">⁂</div>
-
-[^1]: README.md
-
