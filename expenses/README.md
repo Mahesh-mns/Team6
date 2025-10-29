@@ -1,17 +1,11 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Can you format the file properly and make necessary adjustment to so instruction are clear
-
-Here is a properly formatted, clear version of your README.md with improved structure and easy-to-follow instructions:
-
 ***
 
-# FastAPI Expenses
+# Expenses
 
 A simple expenses tracker API using FastAPI.
 
 ```
-fastapi-expenses/
+expenses/
 ├── main.py
 ├── models.py
 ├── requirements.txt
