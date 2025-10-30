@@ -1,0 +1,105 @@
+Prompt:
+
+You are an expert business analyst and solution architect.
+I want you to create a Functional Specification Document (FSD) for a software system.
+Follow the structure and professional tone used in enterprise documentation.
+The goal is to make this document ready for review by both technical and business teams.
+
+Project Name: [PROJECT NAME]
+Project Type: [Web App / Mobile App / API / Data Pipeline / Automation / Other]
+Intended Users: [End Users, Admins, Partners, etc.]
+Business Goal / Problem Statement: [Describe briefly what problem this system solves.]
+
+Please include the following sections in the document:
+
+Document Control
+
+Version
+
+Date
+
+Author
+
+Reviewers
+
+Introduction
+
+Purpose of the document
+
+Scope of the system
+
+Intended audience
+
+System Overview
+
+High-level summary
+
+Key objectives and features
+
+Functional Requirements
+
+Core modules and their descriptions
+
+User roles and permissions
+
+Workflow or process flow
+
+Data inputs, processing, and outputs
+
+Non-Functional Requirements
+
+Performance
+
+Security
+
+Usability
+
+Scalability
+
+Compliance / Legal requirements (if any)
+
+User Interface Requirements (if applicable)
+
+Screen-level functional descriptions
+
+Navigation flow
+
+Mockups (text-based if visuals not possible)
+
+Integration & Dependencies
+
+External APIs or systems
+
+Data sources
+
+Communication between components
+
+Assumptions and Constraints
+
+Technical assumptions
+
+Business rules
+
+Known limitations
+
+Future Enhancements (Optional)
+
+Features not in scope but considered for later
+
+Appendix
+
+Glossary
+
+References
+
+Supporting diagrams or notes
+
+Format Output:
+
+Use markdown or structured headings.
+
+Be concise but descriptive.
+
+Use bullet points where suitable.
+
+Write in professional documentation style.
